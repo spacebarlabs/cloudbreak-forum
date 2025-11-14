@@ -4,6 +4,9 @@
 
 This is the official community hub for users of all [CloudBreak.app](https://cloudbreak.app/) products. This space, powered by GitHub Discussions and Issues, is designed for you to connect with other users, ask for help, share your projects, and propose ideas.
 
+- 💬 [View all discussions](https://github.com/spacebarlabs/cloudbreak-forum/discussions)
+- ✨ [Start a new discussion](https://github.com/spacebarlabs/cloudbreak-forum/discussions/new/choose)
+
 ## What is this space for?
 
 * **❓ Get Help:** Ask questions and get answers from the community.
